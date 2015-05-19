@@ -15,6 +15,7 @@
 -->
 
 <resources>
+	<bool name="preferences_prefer_dual_pane">false</bool>
     <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
     <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
     <bool name="abc_split_action_bar_is_narrow">true</bool>

@@ -16,4 +16,8 @@
   <string name="ringtone_picker_title">"Luitone"</string>
   <string name="ringtone_silent">"Geen"</string>
   <string name="whichApplication">"Voltooi handeling met"</string>
+  
+    <string name="back_button_label">"Terug"</string>
+  <string name="next_button_label">"Volgende"</string>
+  <string name="skip_button_label">"Slaan oor"</string>
 </resources>

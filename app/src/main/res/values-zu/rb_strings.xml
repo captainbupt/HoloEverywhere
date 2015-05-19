@@ -16,4 +16,8 @@
   <string name="ringtone_picker_title">"Amaringithoni"</string>
   <string name="ringtone_silent">"Akunalutho"</string>
   <string name="whichApplication">"Qedela isenzo usebenzisa"</string>
+  
+    <string name="back_button_label">"Emuva"</string>
+  <string name="next_button_label">"Okulandelayo"</string>
+  <string name="skip_button_label">"Yeqa"</string>
 </resources>

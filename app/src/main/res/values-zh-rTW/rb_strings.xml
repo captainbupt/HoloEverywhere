@@ -16,4 +16,8 @@
   <string name="ringtone_picker_title">"鈴聲"</string>
   <string name="ringtone_silent">"無"</string>
   <string name="whichApplication">"選擇要使用的應用程式"</string>
+  
+    <string name="back_button_label">"返回"</string>
+  <string name="next_button_label">"繼續"</string>
+  <string name="skip_button_label">"略過"</string>
 </resources>
